@@ -86,7 +86,7 @@ export default function HomePage({ onNavigate }: HomePageProps) {
       </button>
 
       <a
-        href="https://x.com/amniaalgorithm"
+        href="https://x.com/amnia_algorithm"
         target="_blank"
         rel="noopener noreferrer"
         className="fixed top-6 right-6 w-12 h-12 border-2 border-gray-600 rounded-full flex items-center justify-center hover:bg-yellow-400 hover:border-yellow-400 hover:text-black transition-colors z-50 social-link"
